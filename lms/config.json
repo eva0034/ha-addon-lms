@@ -3,7 +3,7 @@
   "version": "0.0.53",
   "slug": "lms",
   "description": "Logitech Media Server, SqueezeBox Server & UPNP Media Server",
-  "url": "https://github.com/pssc/ha-addon-lms/",
+  "url": "https://github.com/eva0034/ha-addon-lms/",
   "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
   "startup": "services",
   "audio": true,
