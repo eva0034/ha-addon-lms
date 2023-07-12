@@ -40,8 +40,8 @@
   "backup_exclude": [ "./lms/music/**", "./lms/mnt/**", "./lms/notbackedup/**", "./lms/test/*", "*/nobackup/*" ],
   "ingress": true,
   "ingress_port": 0,
-  "panel_icon": "mdi:music-box",
-  "panel_title": "lms",
+  "panel_icon": "mdi:music",
+  "panel_title": "Music",
   "panel_admin": false,
   "stage": "experimental",
   "options": {
